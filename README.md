@@ -1,10 +1,10 @@
-## Ciao, sono Carlo
+## Ciao, sono Carlo 👋
 
 Sono uno sviluppatore web junior basato a Napoli. Vengo da un background nel graphic design e dal 2026 sto frequentando full-time il Master in Web Development di Boolean.
 
 Mi interessa l'intero processo di sviluppo di un'applicazione web, dall'architettura dei dati al frontend con cui interagisce l'utente finale.
 
-### 🛠️ Stack
+### Stack
 
 **Frontend**
 
@@ -30,13 +30,13 @@ Mi interessa l'intero processo di sviluppo di un'applicazione web, dall'architet
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
 
-### 🚀 Cosa sto facendo ora
+### Cosa sto facendo ora
 
 - Costruisco il mio portfolio personale come sviluppatore (React + Vite + Express)
 - Approfondisco PHP e Laravel
 - Cerco un primo ruolo da junior web developer
 
-### 📫 Contattami
+### Contattami
 
 - LinkedIn: [Carlo Alberto Falanga](https://www.linkedin.com/in/carlo-alberto-falanga)
 - Email: carlofalanga7@gmail.com
