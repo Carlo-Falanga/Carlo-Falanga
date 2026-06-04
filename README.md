@@ -1,6 +1,6 @@
 ## Ciao, sono Carlo 👋
 
-Sono uno sviluppatore web junior basato a Napoli. Vengo da un background nel graphic design e dal 2026 sto frequentando full-time il Master in Web Development di Boolean.
+Sono uno sviluppatore web junior. Vengo da un background nel graphic design e dal 2026 sto frequentando full-time il Master in Web Development di Boolean.
 
 Mi interessa l'intero processo di sviluppo di un'applicazione web, dall'architettura dei dati al frontend con cui interagisce l'utente finale.
 
