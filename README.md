@@ -32,11 +32,10 @@ Mi interessa l'intero processo di sviluppo di un'applicazione web, dall'architet
 
 ### Cosa sto facendo ora
 
-- Costruisco il mio portfolio personale come sviluppatore (React + Vite + Express)
-- Approfondisco PHP e Laravel
+- Specializzazione Boolean PHP e Laravel
 - Cerco un primo ruolo da junior web developer
 
 ### Contattami
 
-- LinkedIn: [Carlo Alberto Falanga](https://www.linkedin.com/in/carlo-alberto-falanga)
+- Linkedin: [Carlo Alberto Falanga](https://www.linkedin.com/in/carlo-alberto-falanga)
 - Email: carlofalanga7@gmail.com
