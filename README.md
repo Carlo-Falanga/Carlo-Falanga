@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EDCF73&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Carlo+Falanga+%F0%9F%91%8B;Full-Stack+Web+Developer;PHP+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Node.js;Designer+turned+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=EDCF73&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Carlo+Falanga;Full-Stack+Web+Developer;PHP+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Node.js;Designer+turned+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,14 +14,14 @@
 
 I'm a **full-stack web developer** with a background in graphic design. I build web apps end to end - from the data architecture to the frontend the end user interacts with - and I care as much about clean code as about clean interfaces.
 
-- 🧩 Comfortable across the stack: **Laravel/PHP** & **Node/Express** on the backend, **React** on the frontend
-- 🎨 Coming from graphic design, so UI and detail matter to me
-- 🌱 Currently deepening **PHP & Laravel** at Boolean's Web Development Master
-- 💬 Open to full-stack opportunities — reach me at **carlofalanga7@gmail.com**
+- Comfortable across the stack: **Laravel/PHP** & **Node/Express** on the backend, **React** on the frontend
+- Coming from graphic design, so UI and detail matter to me
+- Currently deepening **PHP & Laravel** at Boolean's Web Development Master
+- Open to full-stack opportunities — reach me at **carlofalanga7@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -50,12 +50,12 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 BoolShop</h3>
+      <h3>BoolShop</h3>
       <p>Full-stack e-commerce for pet accessories: product catalog, search &amp; filters, shopping cart, checkout flow and automated order emails.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -66,7 +66,7 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
       <a href="https://github.com/Carlo-Falanga/booldog-project-work"><b>Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍃 NaturaFit API</h3>
+      <h3>NaturaFit API</h3>
       <p>REST API for a fitness &amp; wellness platform: Eloquent models, migrations and API resources following Laravel conventions.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -78,7 +78,7 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚛️ NaturaFit Client</h3>
+      <h3>NaturaFit Client</h3>
       <p>React frontend for the NaturaFit platform, consuming the Laravel API to deliver the user-facing experience.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -88,7 +88,7 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
       <a href="https://github.com/Carlo-Falanga/naturafit-client"><b>Repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Warehouse Orders</h3>
+      <h3>Warehouse Orders</h3>
       <p>Order management web app for handling and tracking warehouse orders.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -101,7 +101,7 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
 
 ---
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
@@ -124,7 +124,7 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
 
 ---
 
-## 🤝 Let's connect
+## Let's connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/carlo-alberto-falanga">
