@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Carlo-Falanga&label=Profile%20views&color=61DAFB&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Carlo-Falanga&label=Profile%20views&color=EDCF73&style=flat" alt="profile views" />
 
 </div>
 
@@ -105,13 +105,13 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlo-Falanga&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlo-Falanga&theme=tokyonight&hide_border=true&background=0D1117&ring=EDCF73&fire=EDCF73&currStreakLabel=EDCF73" alt="GitHub streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlo-Falanga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=ffffff&area=true" alt="Activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlo-Falanga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=EDCF73&line=EDCF73&point=ffffff&area=true" alt="Activity graph" width="95%" />
 
 </div>
 
