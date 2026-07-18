@@ -12,7 +12,7 @@
 
 ---
 
-I'm a **full-stack web developer** with a background in graphic design. I build web apps end to end — from the data architecture to the frontend the end user interacts with — and I care as much about clean code as about clean interfaces.
+I'm a **full-stack web developer** with a background in graphic design. I build web apps end to end - from the data architecture to the frontend the end user interacts with - and I care as much about clean code as about clean interfaces.
 
 - 🧩 Comfortable across the stack: **Laravel/PHP** & **Node/Express** on the backend, **React** on the frontend
 - 🎨 Coming from graphic design, so UI and detail matter to me
@@ -115,8 +115,7 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
 
 </div>
 
-<!-- 🐍 Snake animation — richiede la GitHub Action (istruzioni nel messaggio della chat).
-     Finché non la configuri, questa immagine resterà "rotta": è normale. -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Carlo-Falanga/Carlo-Falanga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -135,7 +134,3 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<div align="center">
-  <sub>Designer turned developer — building the web one project at a time.</sub>
-</div>
