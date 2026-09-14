@@ -12,8 +12,9 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
 
 - Comfortable across the stack: **Laravel/PHP** & **Node/Express** on the backend, **React** on the frontend
 - Coming from graphic design, so UI and detail matter to me
-- Currently deepening **PHP & Laravel** at Boolean's Web Development Master
-- Open to full-stack opportunities — reach me at **carlofalanga7@gmail.com**
+- Currently building with **Laravel** at WebGas.net, an e-commerce growth agency in Naples
+- Graduated from Boolean's full-time Web Development Master, with the PHP & Laravel specialization
+- Portfolio at **[carlofalanga.dev](https://carlofalanga.dev)**, or reach me at **carlofalanga7@gmail.com**
 
 ---
 
