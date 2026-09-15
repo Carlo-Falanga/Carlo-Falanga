@@ -47,75 +47,25 @@ I'm a **full-stack web developer** with a background in graphic design. I build 
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>BoolShop</h3>
-      <p>Full-stack e-commerce for pet accessories: product catalog, search &amp; filters, shopping cart, checkout flow and automated order emails.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <a href="https://github.com/Carlo-Falanga/booldog-project-work"><b>Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>NaturaFit API</h3>
-      <p>REST API for a fitness &amp; wellness platform: Eloquent models, migrations and API resources following Laravel conventions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <a href="https://github.com/Carlo-Falanga/naturafit-api"><b>Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>NaturaFit Client</h3>
-      <p>React frontend for the NaturaFit platform, consuming the Laravel API to deliver the user-facing experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-      <a href="https://github.com/Carlo-Falanga/naturafit-client"><b>Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Warehouse Orders</h3>
-      <p>Order management web app for handling and tracking warehouse orders.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-      <a href="https://github.com/Carlo-Falanga/warehouse-orders"><b>Repository →</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlo-Falanga&theme=tokyonight&hide_border=true&background=0D1117&ring=EDCF73&fire=EDCF73&currStreakLabel=EDCF73" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Carlo-Falanga&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=EDCF73&fire=EDCF73&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=EDCF73&sideLabels=8B949E&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Carlo-Falanga&hide_border=true&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=8A6A00&fire=8A6A00&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=8A6A00&sideLabels=57606A&dates=57606A" />
+  <img src="https://streak-stats.demolab.com/?user=Carlo-Falanga&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=EDCF73&fire=EDCF73&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=EDCF73&sideLabels=8B949E&dates=8B949E" alt="Current and longest contribution streak" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlo-Falanga&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=EDCF73&line=EDCF73&point=ffffff&area=true" alt="Activity graph" width="95%" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Carlo-Falanga/Carlo-Falanga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlo-Falanga/Carlo-Falanga/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carlo-Falanga/Carlo-Falanga/output/github-contribution-grid-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Carlo-Falanga/Carlo-Falanga/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid" />
+</picture>
 
 </div>
 
